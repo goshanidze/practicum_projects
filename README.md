@@ -3,4 +3,37 @@
 ## Анализ рынка заведений Москвы
 ### Задачи проекта
 Цель проекта: провести исследовательский анализ рынка заведений общественного питания Москвы. Датасет составлен на основе данных сервисов Яндекс Карты и Яндекс Бизнес на лето 2022 года.
-### Ноутбук - [Market analysis of Moscow establishments/Market analysis of Moscow establishments.ipynb](https://github.com/goshanidze/practicum_projects/blob/accbaa81817ef5a9b41d127e726d84a42dcb8d00/Market%20analysis%20of%20Moscow%20establishments/Market%20analysis%20of%20Moscow%20establishments.ipynb)
+### Ноутбук - [Market analysis of Moscow establishments.ipynb](https://github.com/goshanidze/practicum_projects/blob/accbaa81817ef5a9b41d127e726d84a42dcb8d00/Market%20analysis%20of%20Moscow%20establishments/Market%20analysis%20of%20Moscow%20establishments.ipynb)
+
+## Анализ и обработка данных о развитии индустрии игр в начале XXI века для команды “Секреты Темнолесья”
+### Задачи проекта
+Цель проекта: провести анализ и обработку данных, содержащих информацию о продажах, жанрах, платформах, пользовательских и экспертных оценках видеоигр, чтобы выявить закономерности и тенденции развития игровой индустрии.
+### Ноутбук - [Secrets of the Darkwood.ipynb](https://github.com/goshanidze/practicum_projects/blob/6997d54f503621f8dfbd757226ce33bad165808c/Secrets%20of%20the%20Darkwood/Secrets%20of%20the%20Darkwood.ipynb)
+
+## Исследование стартапов
+
+### Задачи проекта
+
+Цель проекта: провести исследовательский анализ исторических данных, относящихся к инвестиционному рынку, для финансовой компании. Цель — выработать понимание, какие характеристики и данные могут быть полезны при покупке, развитии и перепродаже перспективных стартапов.
+### Ноутбук - [Startup Research.ipynb](https://github.com/goshanidze/practicum_projects/blob/6997d54f503621f8dfbd757226ce33bad165808c/Startup%20Research/Startup%20Research.ipynb)
+
+## Проверка гипотезы о поведении пользователей сервиса «Яндекс.Книги»
+
+### Задачи проекта
+
+Цель проекта: провести статистическую проверку гипотезы о различиях в активности пользователей из Москвы и Санкт-Петербурга — определить, проводят ли пользователи из Санкт-Петербурга в среднем больше времени за чтением и прослушиванием книг, чем пользователи из Москвы.
+### Ноутбук - [Two part project.ipynb](https://github.com/goshanidze/practicum_projects/blob/6997d54f503621f8dfbd757226ce33bad165808c/Two%20part%20project/two%20part%20project.ipynb)
+
+## Исследование данных Яндекс.Афиши за осень 2024 года
+
+### Задачи проекта
+
+Цель проекта: провести исследовательский и статистический анализ данных о мероприятиях и заказах билетов сервиса «Яндекс.Афиша» за период с 1 июня по 30 октября 2024 года. Задача — выявить ключевые закономерности в пользовательском поведении, определить популярные типы событий и устройства, через которые совершаются заказы, а также оценить изменения в предпочтениях аудитории.
+### Ноутбук - [Yandex Afisha autumn 2024 final project.ipynb](https://github.com/goshanidze/practicum_projects/blob/6997d54f503621f8dfbd757226ce33bad165808c/Yandex%20Afisha%20autumn%202024%20final%20project/Yandex%20Afisha%20autumn%202024%20final%20project.ipynb)
+
+## Разработка A/B-тестирования и анализ результатов
+
+### Задачи проекта
+
+Цель проекта: рассчитать параметры и провести анализ результатов A/B-теста, направленного на проверку гипотезы об эффективности нового алгоритма рекомендаций. Задача — определить, улучшает ли новая система качество персонализированного контента для пользователей по сравнению с текущим решением.
+### Ноутбук - [development of AB testing and analysis of results.ipynb](https://github.com/goshanidze/practicum_projects/blob/6997d54f503621f8dfbd757226ce33bad165808c/development%20of%20AB%20testing/development%20of%20AB%20testing%20and%20analysis%20of%20results.ipynb)
