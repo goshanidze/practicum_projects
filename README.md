@@ -1,4 +1,12 @@
 # Проекты Яндекс.Практикум
+## Дашборды в Datalens
+https://datalens.ru/3nwqaecc7zpup - Финальный проект
+
+https://datalens.yandex/r0inrl4g71u6d - Разработка ключевых метрик
+
+https://datalens.yandex/l2uempw5svp86 - Анализ конференций TED
+
+https://datalens.yandex/g2jt26xmphlq3 - Дашборд для агенства недвижимости
 
 ## Анализ рынка заведений Москвы
 ### Задачи проекта
