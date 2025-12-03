@@ -1,5 +1,6 @@
 -- 1.1. Доля платящих пользователей по всем данным:
 -- Высчитываем кол-во всех пользователей и кол-во покупателей
+```
 WITH unp AS (SELECT 
 	count( id) AS all_users,
 	(SELECT
@@ -7,10 +8,13 @@ WITH unp AS (SELECT
 	FROM ( SELECT * FROM fantasy.users u2 ) AS cheta
 	WHERE payer = 1)  AS all_payers
 FROM fantasy.users AS u)
+```
 --Высчитываем долю платящих игроков
+```
 SELECT *,
 		round(all_payers::numeric/all_users,2) AS payers_procent
-FROM unp; 
+FROM unp;
+``` 
 -- 1.2. Доля платящих пользователей в разрезе расы персонажа:
 -- Находим число платящих игроков
 WITH cheta2 AS (
